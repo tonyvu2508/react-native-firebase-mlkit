@@ -13,6 +13,6 @@
   "author": "Mateus Cardoso",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.55.3"
+    "react-native": "^0.61.5"
   }
 }
